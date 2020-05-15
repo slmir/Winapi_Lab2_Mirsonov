@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Вячеслав\source\repos\WindowsProject2-1\WindowsProject2-1\Source.cpp(61,7): warning C4101: HHw: неиспользованная локальная переменная
+C:\Users\Вячеслав\source\repos\WindowsProject2-1\WindowsProject2-1\Source.cpp(64,9): warning C4101: hBrush: неиспользованная локальная переменная
+  WindowsProject2-1.vcxproj -> C:\Users\Вячеслав\source\repos\WindowsProject2-1\Debug\WindowsProject2-1.exe
